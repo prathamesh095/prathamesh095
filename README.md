@@ -1,131 +1,128 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=300&section=header&text=Prathamesh%20Pawar&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Turning%20Chaos%20into%20Clarity&descAlignY=58&descSize=28&descColor=cbd5e1" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=320&section=header&text=Prathamesh%20Pawar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Chaos%20into%20Clarity&descAlignY=55&descSize=24&descColor=cfd8dc" width="100%" alt="Header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=93c5fd&center=true&vCenter=true&width=900&lines=I+build+systems+that+respect+reality.;Precision+without+rigidness.;Flow+without+waste.;Clarity+as+the+ultimate+deliverable." alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4DD0E1&center=true&vCenter=true&width=900&lines=I+build+systems+that+respect+reality.;Precision+without+rigidity.;Flow+without+waste.;Clarity+as+the+ultimate+deliverable." alt="Typing Animation" />
+  </a>
 
   <br/><br/>
 
   <a href="https://linkedin.com/in/prathamesh095">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pawar.prathamesh@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/prathamesh095">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
 
-  <br/><br/><br/>
+  <br/><br/>
 
 </div>
 
+---
+
 ### 🌱 The Core of How I Work
 
-I started as a **mechanical engineer**, designing physical systems where every force, tolerance, and material choice mattered. That mindset never left me.
+> *"I started as a **mechanical engineer**, designing physical systems where every force, tolerance, and material choice mattered. That mindset never left me."*
 
-When I look at data, I see the same principles:
+When I look at data, I see physical principles:
 * **Friction** in slow pipelines
 * **Stress points** in unvalidated transforms
 * **Energy loss** in redundant processes
 
-My goal is never to build the flashiest solution. It’s to create something **robust, efficient, and honest** — a system that quietly does its job so people can trust the insights it delivers.
+My goal is never to build the flashiest solution. It’s to create something **robust, efficient, and honest**—a system that quietly does its job so people can trust the insights it delivers.
 
-I value **depth over breadth**, deliberate design over quick fixes, and long-term clarity over short-term wins.
+At **Infosys Springboard**, I’m shaping AI tools that augment human judgment—evaluating LLMs (Llama 3, Mistral) with rigorous privacy criteria and building code review assistants that protect intellectual property.
 
-At **Infosys Springboard**, I’m shaping AI tools that augment — never replace — human judgment. Evaluating LLMs (Llama 3, Mistral) with rigorous privacy and performance criteria. Building code review assistants that catch issues early while protecting intellectual property.
-
-Success, to me, isn’t measured only in percentages. It’s in the moment someone says, “Now I finally understand what the data is telling us.”
-
-<br/><br/>
+<br/>
 
 ### ⚙️ My Mental Model: The Medallion Mindset
 
-I think in layers — not just technically, but philosophically:
+I approach data architecture (and life) in layers:
 
-* **Bronze (Raw):** Embrace the raw truth, imperfections and all
-* **Silver (Refined):** Apply disciplined refinement — clean, validate, structure
-* **Gold (Curated):** Distill pure insight — simple, trustworthy, actionable
+| Layer | State | Philosophy |
+| :---: | :--- | :--- |
+| 🥉 | **Bronze (Raw)** | **Embrace Truth:** Capture the data exactly as it is, imperfections and all. |
+| 🥈 | **Silver (Refined)** | **Discipline:** Clean, validate, and structure the chaos. |
+| 🥇 | **Gold (Curated)** | **Distill Insight:** Provide simple, trustworthy, and actionable intelligence. |
 
-This isn’t just architecture. It’s how I approach problems, learning, and even feedback.
+<br/>
 
-<br/><br/>
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+        <br/>Python
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />
+        <br/>SQL
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
+        <br/>AWS
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" width="50" height="50" alt="Databricks" />
+        <br/>Databricks
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Spark" />
+        <br/>Spark
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="50" height="50" alt="Power BI" />
+        <br/>Power BI
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+        <br/>Git
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+        <br/>Docker
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+        <br/>VS Code
+      </td>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="LLMs" />
+        <br/>LLMs
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ### 🚀 Signature Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **OTT Post-Merger Analytics** | Strategic user segmentation to identify monetization opportunities following a platform merger. Modeled churn risk and viewer retention. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
-| **Credit Risk Lakehouse** | A Databricks-based solution on AWS to assess loan default probabilities using large-scale historical financial data. | ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **OTT Post-Merger Analytics** | Strategic user segmentation to identify monetization opportunities following a platform merger. Modeled churn risk and viewer retention. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Credit Risk Lakehouse** | A Databricks-based solution on AWS to assess loan default probabilities using large-scale historical financial data. | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
-<br/><br/>
+<br/>
 
-### 🛠️ Tools I Rely On Daily
+### 📊 GitHub Analytics
 
-<div align="center">
+<div align="center">  
+  <br/>
+  
+  <br/>
 
-  <table>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
-        <br/><strong>Python</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" alt="AWS" />
-        <br/><strong>AWS</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" width="64" height="64" alt="Databricks" />
-        <br/><strong>Databricks</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="64" height="64" alt="Spark" />
-        <br/><strong>Spark</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL" />
-        <br/><strong>PostgreSQL</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="64" height="64" alt="Power BI" />
-        <br/><strong>Power BI</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="Git" />
-        <br/><strong>Git</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" height="64" alt="Docker" />
-        <br/><strong>Docker</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" alt="VS Code" />
-        <br/><strong>VS Code</strong>
-      </td>
-      <td align="center" width="130">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="64" height="64" alt="TensorFlow" />
-        <br/><strong>LLMs</strong>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/><br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <br/><br/><br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prathamesh095&theme=default&hide_border=false" alt="GitHub Streak" height="180"/>
-
+  <img src="https://streak-stats.demolab.com?user=prathamesh095&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 <br/><br/>
@@ -133,16 +130,11 @@ This isn’t just architecture. It’s how I approach problems, learning, and ev
 ### 💭 A Guiding Quote
 
 <div align="center">
-  <blockquote style="font-size: 28px; font-style: italic; color: #e2e8f0;">
-    "Simplicity is the ultimate sophistication."
-  </blockquote>
-  <p style="font-size: 20px; color: #94a3b8; margin-top: 20px;">
-    — Leonardo da Vinci
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" alt="Quote" />
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=footer&text=Let%27s%20build%20systems%20that%20endure.&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Thoughtful%20engineering%20·%20Pune,%20India&descSize=20&descColor=cbd5e1&descAlignY=75" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C5364,203A43,0F2027&height=150&section=footer&text=Let's%20build%20systems%20that%20endure.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Footer" />
 </div>
